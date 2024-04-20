@@ -33,7 +33,9 @@ Welcome to the CloudOps ecosystem! This suite contains an integrated set of repo
 - **Scalability and Security**: Leverages dynamic scaling, load balancing, security groups, and IAM roles to ensure application scalability and security.  
 
 
-## Repositories
+## Repositories  
+
+[IMPORTANT UPDATE: The repositories associated with this project will become publicly accessible on April 27th, 2024 in compliance with the restrictions imposed until the conclusion of the course.]  
 
 - [**WebApp**](https://github.com/csye6225-eashan-roy/webapp): Spring Boot-based RESTful service for user management with PostgreSQL.
 
