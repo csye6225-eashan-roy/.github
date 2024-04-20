@@ -9,7 +9,7 @@
 
 Welcome to the CloudOps ecosystem, an integrated set of repositories designed to automate the deployment of a secure, scalable, and highly available web application on Google Cloud Platform (GCP). Utilizing Terraform for infrastructure automation, Google Cloud Functions for serverless operations, and Spring Boot for backend development, this project delivers a comprehensive strategy for deploying and managing modern, cloud-native applications with efficiency and resilience.
 
-![](Cloud Native WebApp.webp)
+![CloudNative Web Application](Cloud Native WebApp.webp)
 
 [//]: # (## Architecture Overview)
 
@@ -35,14 +35,13 @@ Welcome to the CloudOps ecosystem, an integrated set of repositories designed to
 
 ## Components
 
-#### [WebApp](https://github.com/csye6225-eashan-roy/webapp)
-Spring Boot-based RESTful service for user management with PostgreSQL.
+- [**WebApp**](https://github.com/csye6225-eashan-roy/webapp): Spring Boot-based RESTful service for user management with PostgreSQL.
 
-#### [Terraform Infrastructure (tf-gcp-infra)](https://github.com/csye6225-eashan-roy/tf-gcp-infra)
-Terraform code to provision and manage the GCP infrastructure.  
+- [**Terraform Infrastructure (tf-gcp-infra)**](https://github.com/csye6225-eashan-roy/tf-gcp-infra): Terraform code to provision and manage the GCP infrastructure.
 
-#### [Serverless](https://github.com/csye6225-eashan-roy/serverless)
-Google Cloud Functions for event-driven processes like email verification.  
+- [**Serverless**](https://github.com/csye6225-eashan-roy/serverless): Google Cloud Functions for event-driven processes like email verification.
+
+  
 
 [//]: # (## Getting Started)
 
@@ -54,8 +53,4 @@ Google Cloud Functions for event-driven processes like email verification.
 - Event-driven serverless workflows
 - Infrastructure as code for GCP
 
-To gain more insights on this project and its capabilities, please refer to their respective repositories.
-
----
-
-We encourage contributions and feedback on all aspects of the suite. If you wish to contribute, please reach out to the project maintainers :)
+To gain more insights on this project and its capabilities, please refer to their respective repositories. We encourage contributions and feedback on all aspects of the suite. If you wish to contribute, please reach out to the project maintainers :)
