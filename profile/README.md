@@ -9,7 +9,7 @@
 
 Welcome to the CloudOps ecosystem, an integrated set of repositories designed to automate the deployment of a secure, scalable, and highly available web application on Google Cloud Platform (GCP). Utilizing Terraform for infrastructure automation, Google Cloud Functions for serverless operations, and Spring Boot for backend development, this project delivers a comprehensive strategy for deploying and managing modern, cloud-native applications with efficiency and resilience.
 
-![CloudNative Web Application](.github/profile/Cloud Native WebApp.webp)
+![CloudNative Web Application](profile/Cloud Native WebApp.webp)
 
 [//]: # (## Architecture Overview)
 
