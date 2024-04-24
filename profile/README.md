@@ -5,8 +5,9 @@
 [![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)](https://www.packer.io/)
 [![Google Cloud Functions](https://img.shields.io/badge/Google_Cloud_Functions-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/functions)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Mailgun](https://img.shields.io/badge/Mailgun-F06A6A?style=for-the-badge&logo=mailgun&logoColor=white)](https://www.mailgun.com/) 
+[![Mailgun](https://img.shields.io/badge/Mailgun-F06A6A?style=for-the-badge&logo=mailgun&logoColor=white)](https://www.mailgun.com/)  
 
+## Overview  
 Welcome to the CloudOps ecosystem! This suite contains an integrated set of repositories designed to automate the deployment of a secure, scalable, and highly available web application on Google Cloud Platform (GCP). Utilizing Terraform for infrastructure automation, Google Cloud Functions for serverless operations, and Spring Boot for backend development, this project delivers a comprehensive strategy for deploying and managing modern, cloud-native applications with efficiency and resilience.
 
 ![CloudNative Web Application](https://raw.githubusercontent.com/csye6225-eashan-roy/.github/main/profile/Cloud%20Native%20WebApp.webp)
@@ -30,7 +31,7 @@ Welcome to the CloudOps ecosystem! This suite contains an integrated set of repo
 
 - **Application Logging and Metrics**: Enhances diagnostic capabilities of application through structured JSON logging, with log data streamed to Google Cloud Observability.  
 
-- **Scalability and Security**: Leverages dynamic scaling, load balancing, security groups, and IAM roles to ensure application scalability and security.  
+- **Scalability and Security**: Leverages dynamic scaling, load balancing, security groups, IAM roles, and customer managed encryption keys to ensure application scalability and security.  
 
 
 ## Repositories  
@@ -51,7 +52,7 @@ Welcome to the CloudOps ecosystem! This suite contains an integrated set of repo
 
 ## Use Cases
 - Automated cloud deployments
-- Accelerated autoscaling and consistent infra with Packer
+- Accelerated autoscaling and consistent infra with Packer golden images  
 - Event-driven serverless workflows
 - Infrastructure as code for GCP
 
