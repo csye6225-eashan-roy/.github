@@ -36,8 +36,6 @@ Welcome to the CloudOps ecosystem! This suite contains an integrated set of repo
 
 ## Repositories  
 
-***[IMPORTANT UPDATE: The repositories associated with this project will become publicly accessible on April 27th, in compliance with the restrictions imposed until the conclusion of the course.]***      
-
 - [**WebApp**](https://github.com/csye6225-eashan-roy/webapp): Spring Boot-based RESTful service for user management with PostgreSQL.
 
 - [**Terraform Infrastructure (tf-gcp-infra)**](https://github.com/csye6225-eashan-roy/tf-gcp-infra): Terraform code to provision and manage the GCP infrastructure.
