@@ -12,10 +12,9 @@ Welcome to the CloudOps ecosystem! This suite contains an integrated set of repo
 
 ![CloudNative Web Application](https://raw.githubusercontent.com/csye6225-eashan-roy/.github/main/profile/Cloud%20Native%20WebApp.webp)
 
-## Architecture Overview
+## Architecture   
 
-
-![Architecture Diagram](link-to-diagram-image)
+![Architecture Diagram](https://raw.githubusercontent.com/csye6225-eashan-roy/.github/main/profile/Architecture%20Diagram.png)
 
 ## Key Features  
 
